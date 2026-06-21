@@ -262,8 +262,8 @@ See the full [LICENSE](LICENSE) file for details.
 <b>Nitish Sharma</b><br>
 <sub>Full Stack Developer · Security Enthusiast</sub><br><br>
 <a href="https://github.com/enthem-nitish"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/your-username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/nitishvishwakarma"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:nitish318065@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </td>
 </tr>
 </table>
